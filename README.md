@@ -38,11 +38,16 @@ Customers visiting tailor shops face difficulties when comparing prices and desi
 
 
 
-![image](https://github.com/Tarun1456/Tailor_customer_interaction_common_people_flutter/assets/113605672/b52f483e-e947-4630-864d-33ee5ad5f612)
-![image](https://github.com/Tarun1456/Tailor_customer_interaction_common_people_flutter/assets/113605672/42616eb5-0a9c-483c-bad4-9ecaee52bfad)
-![image](https://github.com/Tarun1456/Tailor_customer_interaction_common_people_flutter/assets/113605672/e1bc12fe-a9c2-4f5a-ba96-af7d5462b161)
-![image](https://github.com/Tarun1456/Tailor_customer_interaction_common_people_flutter/assets/113605672/0dbda745-8087-4c91-bcd7-82673913c00c)
-![image](https://github.com/Tarun1456/Tailor_customer_interaction_common_people_flutter/assets/113605672/2cf849eb-bdf3-45cc-a8c0-2255d8e36741)
+![image](https://github.com/Tarun1456/Tailor_customer_interaction_common_people_flutter/assets/113605672/1f8dbf2a-df05-4d25-a00e-584feaf7280f)
+![image](https://github.com/Tarun1456/Tailor_customer_interaction_common_people_flutter/assets/113605672/83cb04e0-9666-482b-9f14-1d6ba89edca9)
+![image](https://github.com/Tarun1456/Tailor_customer_interaction_common_people_flutter/assets/113605672/ca91b93f-dc9e-43a8-a535-d893e4127e5a)
+![image](https://github.com/Tarun1456/Tailor_customer_interaction_common_people_flutter/assets/113605672/f85c4369-600f-4dd4-8637-5c1f26b10d07)
+![image](https://github.com/Tarun1456/Tailor_customer_interaction_common_people_flutter/assets/113605672/8dd67956-a447-4fae-9286-fb0b9724eb0c)
+
+
+
+
+
 
 
 
